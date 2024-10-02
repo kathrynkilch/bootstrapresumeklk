@@ -1,0 +1,48 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+			body {background-color: gray;}
+			body {background-image: url(heart.webp);
+			background-repeat: no-repeat; 
+			background-size: 300px 300px;
+			background-attachment: fixed;
+			background-position: right;
+			}
+
+			h1 {color: white;}
+			h2 {color: white;}
+			h3 {color: white;}
+			p {color: white;}
+			p2 {color: white;}
+			ul {color: white;}
+			a {color: darkviolet;}
+
+			h1,h2,h3 {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+			p,ul,a,p2 {
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+			ul {list-style-type: "♡";}
+
+			h1,h2,h3 {word-spacing: 5px;}
+			h1,h2,h3 {letter-spacing: 2px;}
+			p,ul,a,p2 {letter-spacing: 2px}
+			h1,h2,h3 {text-decoration: underline;}
+
+			p::first-line {
+				color: darkviolet;
+				font-variant: small-caps;
+			}
+
+			p {text-align: right;}
+
+			header {background-color: lightgrey;}
+
+			.accordion-body {background-color: darkgrey;}
+
+	
